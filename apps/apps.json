@@ -31,6 +31,14 @@
         "icon": "icons/mystic_tarot.png",
         "playStore": "https://play.google.com/store/apps/details?id=com.semodevlabs.mystic_tarot",
         "appStore": null
+      },
+      {
+        "id": "semobt",
+        "name": "세상의 모든 블루투스 - 세모블",
+        "description": "세상의 모든 블루투스 디바이스(BLE, BT Classic) 연결 및 시리얼 데이터 송수신을 위한 강력하고 직관적인 모바일 터미널 도구입니다.",
+        "icon": "icons/SeMoBT.png",
+        "playStore": "https://play.google.com/store/apps/details?id=com.semodevlabs.semobt",
+        "appStore": null
       }
     ]
   }
